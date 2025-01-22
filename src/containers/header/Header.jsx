@@ -1,5 +1,5 @@
 import logo from "../../assets/Logo.png";
-import imagemHeader from "../../assets/4.png";
+import imagemHeader from "../../assets/Foto-Hero.png";
 import fundo1 from "../../assets/Fundo1.png";
 
 const Header = () => {
@@ -38,7 +38,7 @@ const Header = () => {
             </a>
           </div>
         </div>
-        <div className="w-6/12 max-[640px]:hidden h-full flex justify-center opacity-70">
+        <div className="w-6/12 max-[640px]:hidden h-full flex justify-center opacity-85">
           <img src={imagemHeader} alt="Fundo" />
         </div>
       </div>

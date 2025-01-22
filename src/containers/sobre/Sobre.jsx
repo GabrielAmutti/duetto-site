@@ -32,7 +32,7 @@ const Sobre = () => {
               empreendimentos.
             </p>
           </div>
-          <div className="w-4/12 min-[1024px]:w-6/12 max-[900px]:w-full max-[1024px]:absolute h-full flex justify-center opacity-65 max-[900px]:me-0 -me-[6%] z-0">
+          <div className="w-4/12 min-[1024px]:w-6/12 max-[900px]:w-full max-[1024px]:absolute h-full flex justify-center opacity-85 max-[900px]:me-0 -me-[6%] z-0">
             <img className="max-[1024px]:hidden" src={perfil2} alt="Perfil2"/>
           </div>
         </div>
