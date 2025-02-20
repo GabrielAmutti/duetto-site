@@ -1,5 +1,5 @@
 import fundo1 from "../../assets/Fundo1.png";
-import imagemlogo from '../../assets/duetto.png'
+import imagemlogo from '../../assets/Logoinstagram.png'
 import imageminsta from '../../assets/Instagram.png'
 import whatsApp from '../../assets/Whats.png'
 import linkedin from '../../assets/linkedin-branco.png'
@@ -14,7 +14,7 @@ const Footer = () => {
                         <div className="h-full flex flex-col justify-center items-center">
                             <div className='flex flex-col justify-center items-center text-center mb-6 '>
                                 <a href="https://www.instagram.com/duetto.digital/" target="_blank" rel="noopener noreferrer">
-                                    <img className="hover:scale-105" src={imagemlogo} alt="LogoDuettoInsta"/>
+                                    <img className="w-36 hover:scale-105" src={imagemlogo} alt="LogoDuettoInsta"/>
                                 </a>
                                 
                                 <h1 className="text-2xl max-[900px]:text-xl font-medium mt-4">Siga-me no Instagram e acompanhe as publicações</h1>
@@ -37,7 +37,7 @@ const Footer = () => {
                         <img className="w-36 h-full" src={logo} alt="Logo"/>
                         <h1 className="font-extralight text-sm opacity-60 max-[900px]:my-2">© Duetto Agencia - Todos os direitos reservados.</h1>
                         <div className='flex justify-center items-center '>
-                            <a href="https://wa.me/11991709538" target="_blank" rel="noopener noreferrer">
+                            <a href="https://wa.me/554999767039" target="_blank" rel="noopener noreferrer">
                                 <img className="w-12 h-full p-2 hover:scale-125" src={whatsApp} alt="whatsApp"/>
                             </a>  
                             <a href="https://www.instagram.com/duetto.digital/" target="_blank" rel="noopener noreferrer">

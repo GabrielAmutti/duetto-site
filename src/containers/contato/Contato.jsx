@@ -22,7 +22,7 @@ const Contato = () => {
   };
 
   const enviarParaWhatsApp = () => {
-    const numeroWhatsApp = "5511991709538";
+    const numeroWhatsApp = "554999767039";
     const mensagem = `Olá, me chamo *${nome}*.
     Meu e-mail é *${email}*.
     Meu WhatsApp é *${whatsApp}*.

@@ -28,7 +28,7 @@ const Header = () => {
               você atingir seu cliente.
             </p>
             <a className=""
-              href="https://wa.me/11991709538"
+              href="https://wa.me/554999767039"
               target="_blank"
               rel="noopener noreferrer"
             >
